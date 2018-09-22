@@ -5,12 +5,17 @@ contributor:
     agent_name: Hulton, William
     gutenberg_agent_id: '48285'
     url: http://www.gutenberg.org/2009/agents/48285
+covers:
+- cover_type: archival
+  image_path: 55332-h/images/cover.jpg
 creator:
   author:
     agent_name: Villary, Luigi
     gutenberg_agent_id: '48284'
     url: http://www.gutenberg.org/2009/agents/48284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55332#The-Republic-of-Ragusa-An-Episode-of-the-Turkish-Conquest
 gutenberg_issued: '2017-08-10'
 gutenberg_type: Text
 identifiers:
